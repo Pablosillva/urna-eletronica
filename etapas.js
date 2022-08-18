@@ -259,6 +259,30 @@ let etapas = [
                 fotos:[
                     {url:'manoel_messias.jpg', legenda: 'Senador'}
                 ]
+            },
+            {
+                numero: '400',
+                nome: 'POLLYANNA',
+                partido: 'PSB',
+                fotos:[
+                    {url:'pollyanna.jpeg', legenda: 'Senador'}
+                ]
+            },
+            {
+                numero: '133',
+                nome: 'RICARDO COUTINHO',
+                partido: 'PT',
+                fotos:[
+                    {url:'ricardo_coutinho.jpg', legenda: 'Senador'}
+                ]
+            },
+            {
+                numero: '282',
+                nome: 'SERGIO QUEIROZ',
+                partido: 'PRTB',
+                fotos:[
+                    {url:'sergio_queiroz.jpeg', legenda: 'Senador'}
+                ]
             }
         ]
     },

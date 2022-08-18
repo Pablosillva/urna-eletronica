@@ -229,11 +229,35 @@ let etapas = [
                 ]
             },
             {
-                numero: '500',
-                nome: 'ALEXANDRE SOARES',
-                partido: 'PSOL',
+                numero: '123',
+                nome: 'ANDRE RIBEIRO',
+                partido: 'PDT',
                 fotos:[
-                    {url:'alexandre_soares.jpg', legenda: 'Senador'}
+                    {url:'andre_ribeiro.jpg', legenda: 'Senador'}
+                ]
+            },
+            {
+                numero: '222',
+                nome: 'BRUNO ROBERTO',
+                partido: 'PL',
+                fotos:[
+                    {url:'bruno_roberto.jpeg', legenda: 'Senador'}
+                ]
+            },
+            {
+                numero: '444',
+                nome: 'EFRAIM FILHO',
+                partido: 'UNIÃO',
+                fotos:[
+                    {url:'efraim_filho.jpeg', legenda: 'Senador'}
+                ]
+            },
+            {
+                numero: '290',
+                nome: 'MANOEL MESSIAS',
+                partido: 'PCO',
+                fotos:[
+                    {url:'manoel_messias.jpg', legenda: 'Senador'}
                 ]
             }
         ]
